@@ -51,7 +51,7 @@ GEM
     pry-nav (0.2.4)
       pry (>= 0.9.10, < 0.11.0)
     public_suffix (2.0.5)
-    rake (10.5.0)
+    rake (13.0.6)
     representable (2.3.0)
       uber (~> 0.0.7)
     retriable (2.1.0)
@@ -84,7 +84,7 @@ DEPENDENCIES
   google-api-client
   google_docs!
   pry-nav
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.5)
 
 BUNDLED WITH
